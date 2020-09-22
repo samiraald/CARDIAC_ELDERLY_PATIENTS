@@ -1,3 +1,10 @@
+/*
+DEVELOPED BY SAMIRA ALVES LUCIO DIA
+DATE: 17/09/2020
+GOAL: Report developed to return information about cardiopat elderly patients 
+that passed in the hospital during the years of 2015 and 2020
+*/
+
 SELECT ATENDIME.CD_ATENDIMENTO
       ,PACIENTE.CD_PACIENTE
       ,PACIENTE.NM_PACIENTE
